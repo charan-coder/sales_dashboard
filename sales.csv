@@ -1,0 +1,8 @@
+OrderID,Date,SKU,Quantity,Price,Status
+1001,2023-01-05,SKU-A,2,10.00,Completed
+1002,2023-01-06,SKU-B,1,25.50,Completed
+1003,2023-01-07,SKU-C,3,5.75,Returned
+1004,2023-02-10,SKU-A,1,10.00,Completed
+1005,2023-02-12,SKU-D,5,2.00,Completed
+1006,2023-03-15,SKU-E,1,150.00,Completed
+1007,2023-03-16,SKU-B,2,25.50,Returned
